@@ -1,5 +1,5 @@
 <!-- Read me - Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&animation=fadeIn&section=footer)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&animation=fadeIn&section=footer)
 
 ### Hi there 👋
 
