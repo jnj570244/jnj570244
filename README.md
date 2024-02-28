@@ -1,6 +1,6 @@
 <!-- Read me - Header -->
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&animation=fadeIn&section=footer)-->
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn)
 
 ### Hi there 👋
 
