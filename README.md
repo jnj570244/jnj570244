@@ -1,8 +1,8 @@
 <!-- Read me - Header -->
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&animation=fadeIn&section=footer)-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn%text=test)
 
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **jnj570244/jnj570244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
