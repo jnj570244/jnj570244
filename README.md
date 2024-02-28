@@ -1,6 +1,6 @@
 <!-- Read me - Header -->
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&animation=fadeIn&section=footer)-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&animation=fadeIn&text=Hello%World!👋👋👋&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&animation=fadeIn&text=Hello%World!👋👋👋&fontSize=35&fontAlign=70)
 
 <!--### Hi there 👋-->
 
